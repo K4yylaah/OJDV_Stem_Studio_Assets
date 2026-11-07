@@ -1,4 +1,6 @@
 {
-    "latest": "1.1",
-    "url": "https://github.com/K4yylaah/OJDV_Stem_Studio/releases/latest"
+  "latest_version": "1.2",
+  "release_notes": "Mise à jour v1.2 : Auto-Updater intégré, architecture Pro Tools (Audio Files) et sécurisation du cache IA SOTA.",
+  "download_url_mac": "https://github.com/K4yylaah/OJDV_Stem_Studio_Assets/releases/download/v1.2/OJDV_Stem_Studio_v1.2_Mac.zip",
+  "download_url_win": "https://github.com/K4yylaah/OJDV_Stem_Studio_Assets/releases/download/v1.2/OJDV_Stem_Studio_v1.2_Win.zip"
 }
